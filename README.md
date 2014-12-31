@@ -14,6 +14,7 @@ Ingredients:
 
 Connections:
 
+<pre>
  --------+                   +------------------+
          |                   |                  |
   power  [+]-------+-----[raw]                  |
@@ -34,6 +35,7 @@ Connections:
          |                   |
          |   WS2811 LED #2   |
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</pre>
 
 
 Software
@@ -67,7 +69,7 @@ checked on osciloscope for corectness of generating waveforms.
 AUTHOR
 ======
 
-This piece of software was written by Marek Wodzinski (me) day before Christmas 2014
+This piece of software was written by Marek Wodzinski (me) a night before Christmas 2014
 
 
 License
